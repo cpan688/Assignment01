@@ -96,8 +96,6 @@
 
 // // STEP 14
 // /* Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
-// Hello Zak Ruvalcaba.
-// Welcome to the JavaScript class! */
 //     alert('Hello Carrie Pan.\nWelcome to the JavaScript class!');
 
 
